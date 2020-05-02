@@ -12,9 +12,12 @@ Apply R and statistics &amp; hypothesis testing to analyze a series of datasets 
 •	Identify key characteristics of A/B and A/A testing.<br>
 •	Determine the most appropriate statistical test for a given hypothesis and dataset.
 
-## Challenge 15 
+## Discussion
 #### (The Analysis is in MechaCarWriteUp.txt) 
 1. MPG Regression<br>
+
+MPG testing dataset for car prototypes, using multiple design specifications such as such as vehicle length, vehicle weight, spoiler angle, drivetrain, and ground clearance to identify ideal vehicle performance. <br>
+
 • Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?<br>
 ![](cor.PNG) <br>
 • Is the slope of the linear model considered to be zero? Why or why not?<br>
@@ -22,6 +25,9 @@ Apply R and statistics &amp; hypothesis testing to analyze a series of datasets 
 • Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
 
 2. Suspension Coil Summary<br>
+
+The weight capacity of multiple suspension coils were tested to determine if the manufacturing process is consistent across lots. <br>
+
 • summary statistics table:  <br>
 ![](statistic.PNG) <br>
 • The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per inch. Does the current manufacturing data meet this design specification? Why or why not?
