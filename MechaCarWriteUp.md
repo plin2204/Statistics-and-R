@@ -45,6 +45,7 @@ the correlation coefficient, r, is *0.61 (moderate)* less than 0.7 (strong).<br>
 • The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per inch. Does the current manufacturing data meet this design specification? Why or why not?
 
 <br> 
+
   The variance is *62.68*, less than 100. It meets the design specification.
 
   The Pr(>F), same as p-value statistic, is *0.211* based on output of `summay(aov())` larger than assumed 0.05 percent significant level.
@@ -56,6 +57,7 @@ the correlation coefficient, r, is *0.61 (moderate)* less than 0.7 (strong).<br>
 3.  **Suspension Coil T-Test**
 
 • Determine if the suspension coil’s pound-per-inch results are statistically different from the mean population results of 1,500 pounds per inch. Provide a small writeup of your interpretation and findings for the t-test results.
+<br>
 <br>
   The p-value is *0.06* based on the output of t.test(), larger than assumed 0.05 percent significant level.<br>
 
