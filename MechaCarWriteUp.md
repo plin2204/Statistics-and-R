@@ -44,7 +44,7 @@ the correlation coefficient, r, is *0.61 (moderate)* less than 0.7 (strong).<br>
 <br>
 • The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per inch. Does the current manufacturing data meet this design specification? Why or why not?<br>
         
-
+<br>
   The variance is *62.68*, less than 100. It meets the design specification.
 
   The Pr(>F), same as p-value statistic, is *0.211* based on output of `summay(aov())` larger than assumed 0.05 percent significant level.
