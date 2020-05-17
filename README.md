@@ -1,19 +1,20 @@
 # Statistics-and-R
-Apply R and statistics &amp; hypothesis testing to analyze a series of datasets from the automotive industry.
+Apply **R** and statistics &amp; hypothesis testing to analyze a series of datasets from the automotive industry.
 
-•	Load, clean up, and reshape datasets using tidyverse in R.<br>
-•	Visualize datasets with basic plots such as line, bar, and scatter plots using ggplot2.<br>
-•	Generate and interpret more complex plots such as boxplots and heatmaps using ggplot2.<br>
+## Steps
+•	Load, clean up, and reshape datasets using **tidyverse** in **R**.<br>
+•	Visualize datasets with basic plots such as *line, bar, and scatter plots* using **ggplot2**.<br>
+•	Generate and interpret more complex plots such as *boxplots and heatmaps* using **ggplot2**.<br>
 •	Plot and identify distribution characteristics of a given dataset.<br>
 •	Formulate null and alternative hypothesis tests for a given data problem.<br>
-•	Implement and evaluate simple linear regression and multiple linear regression models for a given dataset.<br>
-•	Implement and evaluate one-sample t-Tests, two-sample t-Tests, and analysis of variance (ANOVA) models for a given dataset.<br>
-•	Implement and evaluate a chi-squared test for a given dataset.<br>
-•	Identify key characteristics of A/B and A/A testing.<br>
+•	Implement and evaluate **simple linear regression** and **multiple linear regression** models for a given dataset.<br>
+•	Implement and evaluate **one-sample t-Tests, two-sample t-Tests, and analysis of variance (ANOVA)** models for a given dataset.<br>
+•	Implement and evaluate a **chi-squared test** for a given dataset.<br>
+•	Identify key characteristics of **A/B and A/A testing**.<br>
 •	Determine the most appropriate statistical test for a given hypothesis and dataset.
 
 ## Discussion
-#### (The Analysis is in MechaCarWriteUp.md, and R code is in MechaCarChallenge.R)
+#### (The Analysis is in `MechaCarWriteUp.md`, and R code is in `MechaCarChallenge.R`)
 1. MPG Regression<br>
 
 MPG testing dataset for car prototypes, using multiple design specifications such as such as vehicle length, vehicle weight, spoiler angle, drivetrain, and ground clearance to identify ideal vehicle performance. <br>
@@ -40,3 +41,6 @@ The weight capacity of multiple suspension coils were tested to determine if the
 • Think critically about what metrics you would think would be of interest to a consumer.<br>
 • Determine what question we would ask, what the null and alternative hypothesis would be to answer that question, and what statistical test could be used to test this hypothesis.<br>
 • Knowing what test should be used, what data should be collected? 
+
+---
+The code is in `MechaCarChallenge.R`
