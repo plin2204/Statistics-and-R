@@ -14,7 +14,8 @@ Apply **R** and statistics &amp; hypothesis testing to analyze a series of datas
 •	Determine the most appropriate statistical test for a given hypothesis and dataset.
 
 ## Discussion
-#### (The Analysis is in `MechaCarWriteUp.md`, and R code is in `MechaCarChallenge.R`)
+The Analysis is in [`MechaCarWriteUp.md`](https://github.com/plin2204/Statistics-and-R/blob/master/MechaCarWriteUp.md), and R code is in [`MechaCarChallenge.R`](https://github.com/plin2204/Statistics-and-R/blob/master/MechaCarChallenge.R).
+
 1. MPG Regression<br>
 
 MPG testing dataset for car prototypes, using multiple design specifications such as such as vehicle length, vehicle weight, spoiler angle, drivetrain, and ground clearance to identify ideal vehicle performance. <br>
